@@ -1,0 +1,205 @@
+.carousel-item {
+    transition: opacity .5s ease-in-out;
+  }
+  
+  .carousel-item.active,
+  .carousel-item-next,
+  .carousel-item-prev {
+    opacity: 1;
+  }
+  
+  .carousel-item-next:not(.carousel-item-left),
+  .active.carousel-item-right {
+    opacity: 0;
+  }
+  
+  .carousel-item-prev:not(.carousel-item-right),
+  .active.carousel-item-left {
+    opacity: 0;
+  }
+  *{
+    margin: 0px;
+    padding: 0px;
+}
+.loupe{
+    width: 20px;
+    height: 20px;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+}
+.imnav{
+    width: 300px;
+    height: 40px;
+}
+.nav-link{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    gap: 30px;
+
+}
+.before{
+    width: 20px;
+    height: 20px;
+}
+#carouselExampleDark{
+    
+    width: 1065px;
+    margin-left: 150px;
+   
+}
+.container-card{
+  display: flex;
+  background-color: #F6F7F8;
+  width: 1062px;
+  height: 30px;
+  margin-left: 150px;
+  gap: 20px;
+  margin-top: 30px;
+}
+.card-title{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
+.container3{
+    
+  position: absolute;
+  bottom: -530px;
+  left: 150px;
+}
+#rouge{
+    border-radius: 0px;
+    width: 100px;
+}
+span{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.new{
+    text-decoration: none;
+    color: rgb(136, 126, 126);
+    
+}
+.cardtel{
+    position: absolute;
+    background-color: #F6F7F8;
+    bottom: -400px;
+    left: 430px;
+    width: 80px;
+    
+}
+.card-img-top2{
+    width: 250px;
+height: 90px;
+}
+.card{
+    background-color: #F6F7F8;
+}
+.card9{
+    position: absolute;
+    width: 510px;
+    height: 100px;
+    left: 700px;
+    bottom: -370px;
+}
+.careee{
+    position: absolute;
+    width: 530px;
+    height: 260px;
+    background-color: #F6F7F8;
+    bottom:-850px;
+    left: 150px;
+}
+.argent{
+    position: absolute;
+    top: 30px;
+    left: 30PX;
+    line-height: 5px;
+}
+
+
+.input{
+    display: block;
+    margin-left: 290px;
+    margin-top: 30px;
+    /* padding: 20px; */
+    line-height: 10px;
+}
+.card10{
+    position: absolute;
+    bottom: -840px;
+    left: 690px;
+}
+.card11{
+    position: absolute;
+    bottom: -790px;
+    left: 955px;
+}
+.carenoir{
+    position: absolute;
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    bottom: -1180px;
+    /* left: 152px; */
+}
+.textefooter{
+    position: absolute;
+    color: white;
+   left: 150px;
+   top: 50px;
+}
+.agence{
+    color: white;
+    text-decoration: underline;
+}
+.generale{
+    position: absolute;
+    width: 90px;
+    top:159px;
+
+}
+.facebookfooter{
+    width: 40px;
+    height: 40px;
+}
+.carréfooter{
+    position: absolute;
+    width: 100px;
+    height: 45px;
+    background-color: beige;
+    padding: 5px;
+    top: 150px;
+}
+.parent{
+    display: block;
+    margin-left: 950px;
+    margin-top: 60px;
+}
+.nous{
+    color: white;
+}
+.fin{
+    display: flex;
+    color: beige;
+   gap: 50px;
+   margin-top: 130px;
+   margin-left: 150px;
+
+   
+}
+.afterrrr{
+    position: absolute;
+   width: 20px;
+   left: 73px;
+   bottom: 13px;
+   
+}

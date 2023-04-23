@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.loupe{
+    width: 20px;
+    height: 20px;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+}
+.imnav{
+    width: 300px;
+    height: 40px;
+}
+.nav-link{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    gap: 30px;
+}
+.before{
+    width: 20px;
+    height: 20px;
+}
+.card-title{
+    font-size: 13px;
+    font-weight: bold;
+}
+.img-fluid{
+    height: 25px;
+    width: 25px;
+}
+/* .container-fluid{
+    background-color: black;
+    width: 100%;
+    height: 300px;
+} */
+/* .carenoir{
+    position: absolute;
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    bottom: -1180px;
+    left: 152px;
+} */
+/* .textefooter{
+    position: absolute; 
+    color: white;
+   left: 150px;
+   top: 50px;
+} */
+/* .agence{
+    color: white;
+    text-decoration: underline;
+}
+.generale{
+    position: absolute; 
+    width: 90px;
+    top:159px;
+
+} */
+/* .facebookfooter{
+    width: 40px;
+    height: 40px;
+}
+.carréfooter{
+    position: absolute;
+    width: 100px;
+    height: 45px;
+    background-color: beige;
+    padding: 5px;
+    top: 150px;
+}
+.parent{
+    display: block;
+    margin-left: 950px;
+    margin-top: 60px;
+}
+.nous{
+    color: white;
+}
+.fin{
+    display: flex;
+    color: beige;
+   gap: 50px;
+   margin-top: 130px;
+   margin-left: 150px;
+
+   
+}
+.afterrrr{
+    position: absolute;
+   width: 20px;
+   left: 73px;
+   bottom: 13px;
+   
+} */
